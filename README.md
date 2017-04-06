@@ -8,10 +8,10 @@ Personal Website: www.matthias.pw
 
 License: See LICENSE file
 
-If you use any of this work please cite:
-?Matthias Mueller, Neil Smith, Bernard Ghanem
+If you use any of this work please cite: \n
+Matthias Mueller, Neil Smith, Bernard Ghanem
 "Context-Aware Correlation Filter Tracking"
-Conference on Computer Vision and Pattern Recognition (CVPR 2017) [Oral]?
+Conference on Computer Vision and Pattern Recognition (CVPR 2017) [Oral]
 
 ## Running trackers on test sequences
 
