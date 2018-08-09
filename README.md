@@ -31,3 +31,5 @@ Add the following to the *config_trackers* function.
 
 trackers = trackersCA;
 ```
+## Looking for a large-scale dataset for tracking?
+Check out [TrackingNet](http://www.tracking-net.org). Instructions on how to download the dataset can be found [here](https://github.com/thias15/TrackingNet).
